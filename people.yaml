@@ -1,0 +1,6 @@
+path: /home/intozi/Videos/people_detection/gmr_yolo_train_occupancy_dataset  # Root directory
+train: images/train
+val: images/val
+
+nc: 1  # number of classes
+names: ['person']  # class names
