@@ -1,0 +1,3 @@
+# Ignore training dataset and virtual environment
+gmr_yolo_train_occupancy_dataset/
+venv/
